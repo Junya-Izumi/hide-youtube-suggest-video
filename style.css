@@ -1,0 +1,11 @@
+/* [すべて][提供:][関連動画][おすすめ]といったボタンが並んでいるタグ */
+#secondary.style-scope.ytd-watch-flexy .style-scope.ytd-item-section-renderer.style-scope.ytd-item-section-renderer {
+    display: none;
+}
+
+/* 動画のサムネやタイトルをまとめているタグ */
+#secondary.style-scope.ytd-watch-flexy yt-lockup-view-model {
+    display: none !important;
+}
+
+/* 広告が表示されていなければ視聴画面右側は何も表示されていない */
