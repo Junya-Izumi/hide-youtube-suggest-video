@@ -9,3 +9,10 @@
 }
 
 /* 広告が表示されていなければ視聴画面右側は何も表示されていない */
+
+/* おすすめ動画が視聴中の動画の下に表示されるレイアウトの時のCSS */
+ytd-item-section-renderer.style-scope.ytd-watch-next-secondary-results-renderer{
+    display: none;
+}
+/* 期待する画面 */
+/* 概要欄とコメント欄の間におすすめが表示されていない */

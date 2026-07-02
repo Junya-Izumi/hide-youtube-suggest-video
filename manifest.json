@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "hide-youtube-suggest-video",
-  "version": "1.0.0",
-  "description": "youtubeを視聴中、右側に出てくる関連動画を非表示にします。",
+  "version": "1.1.0",
+  "description": "youtubeを見ているときに表示されるおすすめ動画を非表示にします。",
   "content_scripts": [
     {
       "matches": [
