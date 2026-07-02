@@ -12,6 +12,9 @@ git clone https://github.com/Junya-Izumi/hide-youtube-suggest-video.git
 2. Chrome で `chrome://extensions` を開く
 3. 画面の右上にある「デベロッパーモード」をONにする
 4. 「パッケージ化されていない拡張機能読み込む」をクリックし、ダウンロードしたフォルダを選択する
-
+## アップデート方法
+1. 新しいバージョンを pull またはZIPでダウンロードして既存のファイルを置き換える
+2. Chrome で `chrome://extensions` を開く
+3. hide-youtube-suggest-videoを再読み込みする
 ## LICENSE
 MIT License
