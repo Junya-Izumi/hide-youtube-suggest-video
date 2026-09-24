@@ -16,3 +16,13 @@ ytd-item-section-renderer.style-scope.ytd-watch-next-secondary-results-renderer{
 }
 /* 期待する画面 */
 /* 概要欄とコメント欄の間におすすめが表示されていない */
+
+
+/* 期待する画面
+ * 動画が終わった後に動画スクリーンに表示されるおすすめ動画が表示されていない
+ * フルスクリーンで動画を視聴しているとき、スクロールすることで見ることができるおすすめが動画が表示されていない。
+ * */
+.ytp-fullscreen-grid-stills-container {
+    display: none !important;
+}
+
